@@ -1,7 +1,7 @@
 # webpack-study-深入浅出webpac
 
 #### 介绍
-<深入浅出webpack>书籍的学习记录
+<深入浅出webpack>书籍的学习记录 [书籍在线链接](https://webpack.wuhaolin.cn/)
 
 #### 软件架构
 软件架构说明
